@@ -6,7 +6,7 @@ También aprendi programación orientada a objetos y SQL con Visual Basic, soy a
 como servidores Samba, Wordpress, Odoo. También configure servidores de juegos como Urban Terror, Lineage, Minecraft.
 Siempre estoy aprendiendo nuevas herramientas y lenguajes.
 
-- 💞️ Recientemente finalice el curso "Phyton para no programadores" de EducaciónIT
+- 💞️ Actualmente estoy cursando la carrera Administrador Linux de EducaciónIT
 
 - 📫 Para contactarme:
   - E-Mail: diegocasavilla@gmail.com
