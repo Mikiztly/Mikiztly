@@ -1,43 +1,61 @@
-<h1>👋 Hola, soy @Mikiztly
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mikiztly.mikiztly&left_color=darkgreen&left_text=Visitas"  /></h1>
-
-👀 Actualmente estoy trabajando como System Administrator en Strong Systems. Soy técnico informático con más de 40 años de experiencia en el rubro, aprendi programación desde D.O.S. con lenguejes como pascal y basic.<br>
-También aprendi programación orientada a objetos y SQL con Visual Basic, soy autodidacta y aprendi instalación, configuración y administración de servidores Ubuntu
-como servidores Samba, Wordpress, Odoo. También configure servidores de juegos como Urban Terror, Lineage, Minecraft.
-Siempre estoy aprendiendo nuevas herramientas y lenguajes.
-
-💞️ Actualmente estoy cursando la carrera Administrador Linux de EducaciónIT
-
-<h3>📫 Para contactarme:</h3>
-  - E-Mail: diegocasavilla@gmail.com<br>
-  - Linkedin: https://www.linkedin.com/in/diego-casavilla/<br>
-  - Github: https://github.com/Mikiztly
-
-<h3 align="left">Herramientas y lenguajes que uso:</h3>
 <div align="center">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <h1>👋 Hola, soy Diego Casavilla (@Mikiztly)</h1>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mikiztly.mikiztly&left_color=darkgreen&left_text=Visitas" alt="Visitas" />
+  <br><br>
+  <h3>🚀 Junior Linux Operations Engineer | Junior DevOps | SysAdmin</h3>
+  <p><i>Transformando más de 30 años de experiencia técnica en soluciones ágiles, seguras y de alta disponibilidad para entornos Cloud-Native y Open Source.</i></p>
 </div>
 
-<!---
-Mikiztly/Mikiztly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎯 Perfil Profesional
+Especialista en Operaciones de Infraestructura con un enfoque estratégico en la automatización, observabilidad y resiliencia. Mi objetivo es aportar madurez técnica probada para generar eficiencias operativas medibles en equipos de alto rendimiento. Actualmente enfocando mi carrera en roles dentro de la Unión Europea. **Ciudadano de la UE 🇪🇺.**
+
+### 📈 Impacto y Logros Cuantificables
+- ⚙️ **Automatización & Scripting:** Reducción del **60%** en errores de procesos manuales mediante la creación de scripts de automatización avanzados en **Python y BASH** para respaldos corporativos y tareas de administración continuas.
+- 📊 **Observabilidad Proactiva:** Disminución del **30%** en el MTTR (Tiempo Medio de Reparación) en servidores de producción lograda al implementar y orquestar una estrategia de monitoreo ágil con **Prometheus y Grafana**, complementando a Zabbix.
+- 🐳 **Orquestación DevOps y Alta Disponibilidad:** Mejora del **40%** en la eficiencia y disponibilidad del ciclo de vida de las aplicaciones clave, mediante el despliegue de microservicios robustos con **Docker, Portainer y Nginx-Proxy-Manager**.
+- 🛡️ **Resiliencia en Infraestructura Crítica (Sistemas 911):** Optimización integral del **25%** del rendimiento global en la infraestructura tecnológica del proyecto gubernamental de emergencias 911, administrando con éxito más de **30 servidores** (físicos y virtuales) de misión crítica.
+
+### 🛠️ Herramientas y Stack Tecnológico
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="BASH" title="BASH" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Grafana" title="Grafana" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="Prometheus" title="Prometheus" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zabbix/D40000" height="40" alt="Zabbix" title="Zabbix" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" title="PHP" />
+</div>
+<br>
+
+### 🌱 Educación y Mejora Continua
+- 🎓 **Carrera Administrador Linux (SysAdmin)** - EducaciónIT (2023 - 2025)
+- ☁️ Aprendizaje activo en **Cloud Computing (AWS)** e **Infraestructura como Código (IaC)**.
+- 📜 **Certificaciones Técnicas:** Seguridad en Linux (Server Hacking), Python Avanzado, Linux Shell Scripting, Introducción a Ciberseguridad, Redes Linux.
+
+### 📫 Conectemos
+- 📧 **Email:** [diegocasavilla@gmail.com](mailto:diegocasavilla@gmail.com)
+- 💼 **LinkedIn:** [Diego Casavilla](https://www.linkedin.com/in/diego-casavilla/)
+- 📍 **Ubicación:** Calabria, Italia (🇪🇺 Ciudadano de la UE - Disponible para Remoto)
+
+---
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikiztly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=es&hide_border=false&order=1" height="200" alt="stats graph"  />
